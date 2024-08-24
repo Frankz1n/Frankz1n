@@ -3,10 +3,11 @@
 
 ## Tenho conhecimento nessas Tecnologias e Ferramentas
 
-<i class="devicon-react-original-wordmark colored"></i> 
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-typescript-plain colored"></i>
-<i class="devicon-nodejs-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
           
           
 
