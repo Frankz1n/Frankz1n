@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">👋   Sou um estudante de Ciências da Computação na UniRitter que desde pequeno desenvolvi um grande interesse pela área da tecnologia e sigo estudando e conhecendo essa área cada vez mais.<br><br>💻 Atualmente, estou atuando mais na parte do Front-end com React.js e Typescript, porém estou estudando Node.js e mongoDB para me aprimorar no Back-end.<br><br>🚀 Estou sempre à procura de novos desafios que me permitam usar todo meu conhecimento e até buscar coisas novas para poder resolver eles. Gosto de estar sempre praticando quando tenho tempo livre, aqui no meu repositório você poderá ver alguns projetos pessoais que estou desenvolvendo.<br><br>📫 Sinta-se à vontade para me contatar para colaboração, troca de ideias ou apenas bater um papo sobre tecnologia!</p>
+<p align="center">👋   Sou um estudante de Ciências da Computação na UniRitter que desde pequeno desenvolvi um grande interesse pela área da tecnologia e sigo estudando e conhecendo essa área cada vez mais.<br><br>💻 Atualmente, estou atuando mais na parte do Front-end com React.js e Typescript, porém estou estudando Next.js, Node.js e mongoDB para me aprimorar no Back-end.<br><br>🚀 Estou sempre à procura de novos desafios que me permitam usar todo meu conhecimento e até buscar coisas novas para poder resolver eles. Gosto de estar sempre praticando quando tenho tempo livre, aqui no meu repositório você poderá ver alguns projetos pessoais que estou desenvolvendo.<br><br>📫 Sinta-se à vontade para me contatar para colaboração, troca de ideias ou apenas bater um papo sobre tecnologia!</p>
 
 ###
 
