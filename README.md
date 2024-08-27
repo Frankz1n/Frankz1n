@@ -89,5 +89,12 @@
   
 </div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frankz1n&show_icons=true&theme=tokyonight) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frankz1n&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="195" alt="languages graph"  />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frankz1n&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)
+
+
+ 
+
+
+
 
