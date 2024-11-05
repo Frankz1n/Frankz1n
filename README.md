@@ -83,13 +83,6 @@
 
 ###
 
-<div align="center">
-  <h3 align="center">Meu Status</h3>
-  
-</div>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frankz1n&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)
 
 
  
